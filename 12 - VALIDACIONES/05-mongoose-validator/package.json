@@ -1,0 +1,29 @@
+{
+  "name": "09---arquitectura-de-capas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:mongo": "node src/server.js mongo",
+    "start:fs": "node src/server.js fs",
+    "start:mysql": "node src/server.js mysql"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sinclair/typebox": "^0.34.33",
+    "ajv": "^8.17.1",
+    "ajv-errors": "^3.0.0",
+    "ajv-formats": "^3.0.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "joi": "^17.13.3",
+    "mongoose": "^8.13.2",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7",
+    "uuid": "^11.1.0"
+  }
+}

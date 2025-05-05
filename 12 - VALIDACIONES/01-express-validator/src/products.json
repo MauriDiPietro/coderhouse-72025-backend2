@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "e29638f0-1c68-4d91-8f2e-b12faad40024",
+    "name": "Yerba Mate 1123",
+    "description": "........",
+    "price": 4500,
+    "stock": 50
+  },
+  {
+    "_id": "3176254b-0af1-4666-93b3-2ee7ae11d5cc",
+    "name": "Yerba Mate coderhouse",
+    "description": "........",
+    "price": 4500,
+    "stock": 50
+  },
+  {
+    "_id": "9c53495d-da67-45fb-908c-eaa44f8961cd",
+    "name": "Yerba Mate coderhouse",
+    "description": "........",
+    "price": 4500,
+    "stock": 50
+  }
+]
